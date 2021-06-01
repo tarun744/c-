@@ -400,7 +400,7 @@ node* newNode(int data)
     Node->left = NULL;
     Node->right = NULL;
 
-    return(Node);
+    return(Node);d
 }
 int main()
 {
